@@ -7,7 +7,8 @@ Based on work by Priyam Majumdar: https://ai.ncsa.illinois.edu/spring-2026-caii-
 
 ## Comparisons
 
-- Compare with some OOB torch implementation of attention
+- Compare with some torch implementation of attention
+- CUDA / CPU performance
 
 
 ## References
